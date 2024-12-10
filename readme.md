@@ -19,5 +19,6 @@
 ## Python Framework
 
 01. [ ] Django
-02. [ ] Flask
-03. [ ] FastAPI
+    1.1 [ ] Django ORM
+1. [ ] Flask
+1. [ ] FastAPI
