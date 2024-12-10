@@ -2,8 +2,8 @@
 
 ## Python Libraries
 
-01. [ ] NumPy
-02. [ ] Pandas
+01. [-] NumPy
+02. [-] Pandas
 03. [ ] SqlAlchemy
 04. [ ] PyLint
 05. [ ] Mocking
@@ -18,7 +18,8 @@
 
 ## Python Framework
 
-01. [ ] Django
-    1.1 [ ] Django ORM
+01. [-] Django
+    1.1 [-] Django ORM
+    1.2 [ ] Django Setup
 1. [ ] Flask
 1. [ ] FastAPI

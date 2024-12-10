@@ -13,3 +13,5 @@
 11. [ ] Lookup Fields
 12. [ ] Signal
 13. [ ] Model Relationship
+14. [ ] QuerySet Iterator
+15. [ ] Necessary Commands
