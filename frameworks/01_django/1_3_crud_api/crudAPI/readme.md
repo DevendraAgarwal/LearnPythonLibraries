@@ -7,7 +7,6 @@ Creating a CRUD API using Django involves setting up Django with Django REST Fra
 Install Django and Django REST Framework:
 
 ```bash
-Copy code
 pip install django djangorestframework
 
 ```
@@ -15,7 +14,6 @@ pip install django djangorestframework
 Create a new Django project:
 
 ```bash
-Copy code
 django-admin startproject myproject
 cd myproject
 
@@ -24,7 +22,6 @@ cd myproject
 Create a new app:
 
 ```bash
-Copy code
 python manage.py startapp myapp
 
 ```
