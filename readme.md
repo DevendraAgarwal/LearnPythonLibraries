@@ -18,8 +18,9 @@
 
 ## Python Framework
 
-01. [-] Django
-    1.1 [-] Django ORM
-    1.2 [ ] Django Setup
+01. [-] [Django](frameworks/01_django/readme.md)
+    1.1 [x] [Django Setup](frameworks/01_django/1_1_django_setup/setup_process.md)
+    1.2 [-] Django ORM
+    1.3 [x] [Sample Crud API](frameworks/01_django/1_3_crud_api/crudAPI/readme.md)
 1. [ ] Flask
 1. [ ] FastAPI
